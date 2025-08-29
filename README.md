@@ -47,8 +47,8 @@ PRODIGY_FS_05/
 # 🛠️ Getting Started  
 ## 1. Clone the Repo  
 
-git clone [Click](https://github.com/md-islamuddin/PRODIGY_FS_05)  
-cd PRODIGY_FS_05
+git clone [Click](https://github.com/md-islamuddin/Social-Media-Platform)  
+Social-Media-Platform
 ## 2. Install Dependencies   
 npm install  
 ## 3. Run the Server  
