@@ -118,8 +118,7 @@ Built By **md-islamuddin** with Prodigy infotech as part of PRODIGY_FS_05 Task �
 # 👨‍💻 About  
 #### Linkdin
 [md-islamuddin](https://www.linkedin.com/in/md-islamuddin)
-#### Youtube 
-[Click](https://www.youtube.com/channel/md-islamuddin)
+
 
 # 📜 License  
 This project is open-source and available under the [MIT License.](https://github.com/md-islamuddin/PRODIGY_FS_05?tab=MIT-1-ov-file)  
