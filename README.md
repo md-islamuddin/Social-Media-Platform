@@ -65,7 +65,7 @@ Logout simply clears the JWT from client storage
 
 # 📸 Screenshots 
 ## 🔐 Signup Page  
-![](https://github.com/md-islamuddin/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185047.png)  
+<img width="915" height="602" alt="Image" src="https://github.com/user-attachments/assets/f7d5e113-5255-42e0-aeba-806223cffc15" />
 ## 🔐 Login Page  
 <img width="933" height="570" alt="Image" src="https://github.com/user-attachments/assets/1bd7edc0-cc81-4bbf-80b8-ef0c20c9631b" /> 
 ## 💬 Home Page  
