@@ -54,7 +54,11 @@ npm install
 ## 3. Run the Server  
 npm run dev  
 ## 4. Open in Browser  
-http://localhost:5000  
+http://localhost:5000 
+## 5. Setup environment variables
+Create a .env file in the root folder and add:
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 # 🔐 Authentication Flow
 JWT-based login with persistent localStorage  
 
